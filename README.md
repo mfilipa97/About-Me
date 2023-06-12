@@ -1,6 +1,7 @@
 # About-Me
-# 💫 About Me:
-A potato in front of a computer. I like videogames and sleeping.
+# ♎ About Me:
+A potato in front of a computer. Currently learning HTML, CSS and JavaScript. In the future I want to learn Python.
+
 
 
 # 💻 Tech Stack:
