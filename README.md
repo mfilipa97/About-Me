@@ -1,5 +1,6 @@
-https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh1aHZoZWJhbGdnbmN1eGtndzZxanp4c3c1N3Nja3JjdHZzNThzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif)" width="100"/>
+</div>
 # About-Me
 # ♎ About Me:
 A potato in front of a computer. Currently learning HTML, CSS and JavaScript. In the future I want to learn Python.
